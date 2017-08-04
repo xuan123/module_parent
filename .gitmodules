@@ -1,3 +1,6 @@
 [submodule "AndroidModulePattern-master/lib_modules"]
 	path = AndroidModulePattern-master/lib_modules
 	url = https://github.com/xuan123/module_child
+[submodule "module_child"]
+	path = module_child
+	url = https://github.com/xuan123/module_child
